@@ -1,4 +1,4 @@
-
+![banner](banner.jpg)
 
 # Hi, I'm 老王 (Lao Wang) 👋
 
@@ -22,9 +22,9 @@ or a desktop harness — instead of just chatting about it.
 
 | Repository | What it is |
 |---|---|
-| [aihand-for-woocommerce](https://github.com/baibiaowang/aihand-for-woocommerce) | Store operations MCP plugin — products, orders, refunds, SEO, support |
-| [aidesign-for-woocommerce](https://github.com/baibiaowang/aidesign-for-woocommerce) | Storefront design MCP plugin — theme styles, sections, palettes, comparisons |
-| [aitools-for-woocommerce](https://github.com/baibiaowang/aitools-for-woocommerce) | Store infrastructure MCP plugin — backup, mail, consent, pixels, cache, hardening |
+| [ai-hand-for-woocommerce](https://github.com/baibiaowang/ai-hand-for-woocommerce) | Store operations MCP plugin — products, orders, refunds, SEO, support |
+| [ai-design-for-woocommerce](https://github.com/baibiaowang/ai-design-for-woocommerce) | Storefront design MCP plugin — theme styles, sections, palettes, comparisons |
+| [ai-tools-for-woocommerce](https://github.com/baibiaowang/ai-tools-for-woocommerce) | Store infrastructure MCP plugin — backup, mail, consent, pixels, cache, hardening |
 | [panda-board](https://github.com/baibiaowang/panda-board) | Market disclosure dashboard — sandbox collection → data repo → GitHub Pages |
 | [dsh-voice-input-wb-asr](https://github.com/baibiaowang/dsh-voice-input-wb-asr) | Hold-to-talk voice input for DeepSeek Harness, cloud speech recognition |
 
