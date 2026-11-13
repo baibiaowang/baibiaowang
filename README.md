@@ -1,6 +1,6 @@
-# Hi, I'm 跨境老鬼 (Kuajing Laogui) 👋
+# Hi, I'm 老王 (Lao Wang) 👋
 
-I build **AI-agent tooling for cross-border e-commerce and market data**. Most of my work is
+I build **AI agent tooling for cross-border e-commerce and market data**. Most of my work is
 about letting an AI agent safely operate a real production system — a store, a data pipeline,
 or a desktop harness — instead of just chatting about it.
 
