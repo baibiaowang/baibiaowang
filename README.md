@@ -1,4 +1,4 @@
-![banner](banner.jpg)
+
 
 # Hi, I'm 老王 (Lao Wang) 👋
 
