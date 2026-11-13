@@ -1,4 +1,8 @@
+![banner](banner.jpg)
+
 # Hi, I'm 老王 (Lao Wang) 👋
+
+<img align="right" src="avatar.jpg" width="120" alt="老王" />
 
 I build **AI agent tooling for cross-border e-commerce and market data**. Most of my work is
 about letting an AI agent safely operate a real production system — a store, a data pipeline,
